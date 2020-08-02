@@ -1,0 +1,2 @@
+# Datapack-Transmitter
+将本地的datapack实时同步到服务器，以便多人在同一服务器开发不同datapack，不会将服务器内容传输至客户端.
