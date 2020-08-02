@@ -7,7 +7,10 @@
 
 2.[安装Node.Js（推荐14.x），配置环境变量](https://blog.csdn.net/luckybuling/article/details/81292855)
 
-3.在目录内执行npm i
+3.在 解压/clone 后的目录内执行
+```
+npm i
+```
 
 4.按下面的用法运行
 
